@@ -1,0 +1,100 @@
+<?xml version="1.0"?>
+<youtubers>
+  <title>Most Subscribed Filipino Youtuber </title>
+  <youtuber channelHandle="@IvanaAlawi">
+    <youtubeLink>https://www.youtube.com/@IvanaAlawi</youtubeLink>
+    <channelName>Ivana Alawi</channelName>
+    <subCount>16.2 Million</subCount>
+    <mostViews>31 Million</mostViews>
+    <contentType>Lifestyle</contentType>
+    <creationDate>2018-06-01</creationDate>
+  </youtuber>
+  <youtuber channelHandle="@ranzkyle">
+    <youtubeLink>https://www.youtube.com/@ranzkyle</youtubeLink>
+    <channelName>Ranz Kyle</channelName>
+    <subCount>15.1 Million</subCount>
+    <mostViews>86 Million</mostViews>
+    <contentType>Music/Dancing</contentType>
+    <creationDate>2008-04-27</creationDate>
+  </youtuber>
+  <youtuber channelHandle="@nianaguerrero">
+    <youtubeLink>https://www.youtube.com/@nianaguerrero</youtubeLink>
+    <channelName>Niana Guerrero</channelName>
+    <subCount>15 Million</subCount>
+    <mostViews>58 Million</mostViews>
+    <contentType>Music/Dancing</contentType>
+    <creationDate>2013-04-11</creationDate>
+  </youtuber>
+  <youtuber channelHandle="@ZeinabHarakeVlogs">
+    <youtubeLink>https://www.youtube.com/@ZeinabHarakeVlogs</youtubeLink>
+    <channelName>Zeinab Harake</channelName>
+    <subCount>13.3 Million</subCount>
+    <mostViews>19 Million</mostViews>
+    <contentType>Lifestyle</contentType>
+    <creationDate>2017-10-20</creationDate>
+  </youtuber>
+  <youtuber channelHandle="@AlexGonzagaOfficial">
+    <youtubeLink>https://www.youtube.com/@AlexGonzagaOfficial</youtubeLink>
+    <channelName>Alex Gonzaga</channelName>
+    <subCount>13.1 Million</subCount>
+    <mostViews>32 Million</mostViews>
+    <contentType>Lifestyle</contentType>
+    <creationDate>2017-07-19</creationDate>
+  </youtuber>
+  <youtuber channelHandle="@CongTheVlogger">
+    <youtubeLink>https://www.youtube.com/@CongTheVlogger</youtubeLink>
+    <channelName>Cong TV</channelName>
+    <subCount>11 Million</subCount>
+    <mostViews>13 Million</mostViews>
+    <contentType>Lifestyle</contentType>
+    <creationDate>2008-02-13</creationDate>
+  </youtuber>
+  <youtuber channelHandle="@d0NSKiEb00">
+    <youtubeLink>https://www.youtube.com/@d0NSKiEb00</youtubeLink>
+    <channelName>Donnalyn Bartolome</channelName>
+    <subCount>9.59 Million</subCount>
+    <mostViews>28 Million</mostViews>
+    <contentType>LifeStyle</contentType>
+    <creationDate>2008-03-27</creationDate>
+  </youtuber>
+  <youtuber channelHandle="@DocWillieOng">
+    <youtubeLink>https://www.youtube.com/@DocWillieOng</youtubeLink>
+    <channelName>Doc Willie Ong</channelName>
+    <subCount>8.22 Million</subCount>
+    <mostViews>13 Million</mostViews>
+    <contentType>Health and fitness</contentType>
+    <creationDate>2007-03-31</creationDate>
+  </youtuber>
+  <youtuber channelHandle="@JelaiAndares">
+    <youtubeLink>https://www.youtube.com/@JelaiAndres</youtubeLink>
+    <channelName>Jelai Andres</channelName>
+    <subCount>7.55 Million</subCount>
+    <mostViews>13 Million</mostViews>
+    <contentType>Lifestyle</contentType>
+    <creationDate>2019-04-22</creationDate>
+  </youtuber>
+  <youtuber channelHandle="@vicegandaofficial">
+    <youtubeLink>https://www.youtube.com/@vicegandaofficial</youtubeLink>
+    <channelName>Vice Ganda</channelName>
+    <subCount>7.49 Million</subCount>
+    <mostViews>9.4 Million</mostViews>
+    <contentType>Lifestyle</contentType>
+    <creationDate>2014-03-23</creationDate>
+  </youtuber>
+  <youtuber channelHandle="@AkosiDogie">
+    <youtubeLink>https://www.youtube.com/@AkosiDogie</youtubeLink>
+    <channelName>AKo si Dogie</channelName>
+    <subCount>6.59 Million</subCount>
+    <mostViews>17 Million</mostViews>
+    <contentType>Gaming</contentType>
+    <creationDate>2005-10-23</creationDate>
+  </youtuber>
+  <youtuber channelHandle="@CHoOxTV">
+    <youtubeLink>https://www.youtube.com/@CHoOxTV</youtubeLink>
+    <channelName>Choox TV</channelName>
+    <subCount>6.46 Million</subCount>
+    <mostViews>15 Million</mostViews>
+    <contentType>Gaming</contentType>
+    <creationDate>2017-08-15</creationDate>
+  </youtuber>
+</youtubers>

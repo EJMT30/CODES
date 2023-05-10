@@ -1,0 +1,108 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+
+</head>
+<body>
+
+    <nav class="py-3 px-5 navbar navbar-expand-lg navbar-light bg-transparent">
+        <div class="container-fluid">
+            <div>
+                <img src="assets/Youtube_logoW.png" alt="" class="logo">
+            </div>
+            <div>
+
+                <ul class="navbar-nav">
+                    <li class="nav-item active">
+                      <a class="nav-link text-white" href="#">Home </a>
+                    </li>
+                    <li class="nav-item">
+                      <a class="nav-link text-white ps-5" href="#">Update</a>
+                    </li>
+                    <li class="nav-item" >
+                      <a class="nav-link text-white ps-5" href="#">Delete</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link text-white ps-5" href="#">Create</a>
+                      </li>
+                </ul> 
+
+            </div>
+        </div>
+    </nav>
+
+        <div class="container">
+            <div class="row">
+              <div class="col pt-5 ">
+                <p class="display-6 text-white">Create / Add List</p>
+
+                <form class="row g-2 text-white">
+                    <div class="col-md-6">
+                      <label class="form-label ">Channel Handle</label>
+                      <input type="text" class="hello" name="channelHandle" placeholder="@" onkeyup="check(this.value)">
+                      <div id="handle_response"></div>
+                    </div>
+
+                    <div class="col-md-6 pt">
+                        <label class="form-label">Channel Name</label>
+                      <input type="text" class="hello" name="channelName">
+                    </div>
+                    <div class="col-12">
+                        <label class="form-label">Channel Link</label>
+                      <input type="text" class="hello" name="channelLink" >
+                    </div>
+                    <div class="col-md-6">
+                        <label class="form-label">Most Views</label>
+                        <input type="text" class="hello" name="mostViews">
+                      </div>
+                      <div class="col-md-6">
+                          <label class="form-label">Subcribers Count</label>
+                        <input type="text" class="hello" name="subCount">
+                      </div>
+                    <div class="col-md-12">
+                      <label for="inputCity" class="form-label">Date of creation</label>
+                      <input type="date" name="date"  class="hello" id="mydate" value="2020-10-10">
+                    </div>
+                    <div class="col-md-12">
+                      <label class="form-label">Genre</label>
+                      <select id="inputState" class="hello" name="genre">
+                        <option selected>Choose...</option>
+                        <option>Lifestyle</option>
+                        <option>Gaming</option>
+                        <option>MakeUp</option>
+                        <option>Sports</option>
+                        <option>Health</option>
+                      </select>
+                    </div>
+                    <div class="col-md-12">
+                      <label class="form-label">Picture</label>
+                      <input type="file" class="form-control mb-3" name="ytpic">
+                    </div>
+                    <div class="col-6">
+                        <input disabled type="submit" class="hello" value="save" id="btnsubmit">
+                    </div>
+                    <div class="col-6">
+                        <form action="read.php"><input type="submit" class="hello" value="Back"></form>
+                    </div>
+                    
+                  </form>
+                 
+              </div>
+              <div class="col">
+              </div>
+              <div class="col">
+
+              </div>
+            </div>
+          </div>
+        
+   
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+</body>
+</html>

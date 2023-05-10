@@ -1,0 +1,85 @@
+.logo{
+    
+  width: 90px;
+  height: auto;
+  cursor: pointer
+}
+
+.pede{
+
+  background-image: url(assets/home.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  
+  }
+
+.search-button{
+
+  background-color: white;
+  color: black;
+  border: none;
+  border-radius: 10px;
+  height: 40px;
+  width: 200px;
+  transition: background-color 0.3s ease;
+
+}
+
+.search-button:hover {
+  background-color: rgba(255, 255, 255, 0.559);
+}
+  
+
+.col-md-3{
+
+  
+  border-radius: 20px;
+  margin: 10px;
+  text-align: justify;
+ 
+  padding: 10px;
+  color: white;
+  font-size: 12px;
+  background-color: rgba(255, 255, 255, 0.067);
+  
+
+}
+
+.title{
+
+  text-align: center;
+  color: white;
+
+}
+
+
+.clkhere{
+
+  background-color: rgba(251, 60, 60, 0.626);
+  border: none;
+  border-radius: 10px;
+  height: 50px;
+  width: 200px;
+  color: white;
+  transition: background-color 0.3s ease;
+
+
+}
+
+.clkhere:hover {
+  background-color: red;
+}
+
+
+h2, p{
+
+  font-family: 'Koulen', cursive;
+  
+}
+
+
+
+
+
+
